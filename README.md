@@ -23,7 +23,7 @@ In conclusion,
 - User clicks buttons:
   The onclick attribute updates the display.value with numbers, operators, or results.
 - Mathematical operations:
-  Numbers and operators are added to display.value as a string (e.g., "7+5").ss
+  Numbers and operators are added to display.value as a string (e.g., "7+5").ss,
   The "=" button runs “eval()” on this string to calculate the result.
 - Result is displayed:
   The result replaces the current expression in the display field.
